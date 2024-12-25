@@ -1,10 +1,10 @@
-import Hero from '@/app/components/hero'
-import React from 'react'
+import Hero from "@/app/components/hero"
+
 
 function Home() {
   return (
     <div>
-      <Hero/>
+    <Hero/>
     </div>
   )
 }
